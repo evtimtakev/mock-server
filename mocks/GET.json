@@ -1,0 +1,87 @@
+{
+    "products": [
+        "FLOW_FREE",
+        "FLOW_FREE",
+        "EMSPREMIUM",
+        "WINDOWS_STORE",
+        "ENTERPRISEPACK",
+        "EXCHANGESTANDARD",
+        "STANDARDPACK",
+        "ENTERPRISEPACK",
+        "MCOMEETADV",
+        "AAD_PREMIUM",
+        "AAD_BASIC",
+        "DYN365_ENTERPRISE_PLAN1",
+        "INTUNE_A",
+        "EMS",
+        "INTUNE_A",
+        "POWER_BI_STANDARD",
+        "POWER_BI_STANDARD",
+        "POWER_BI_STANDARD",
+        "MS_TEAMS_IW"
+    ],
+    "data": [
+        {
+            "name": "Available License",
+            "data": [
+                10000,
+                10000,
+                250,
+                25,
+                11,
+                6,
+                6,
+                5,
+                3,
+                1,
+                5,
+                5,
+                5,
+                5,
+                25,
+                1000000,
+                1000000,
+                1000000,
+                500000
+            ]
+        },
+        {
+            "name": "Used License",
+            "data": [
+                5,
+                2,
+                2,
+                0,
+                10,
+                6,
+                6,
+                4,
+                3,
+                0,
+                0,
+                0,
+                1,
+                1,
+                2,
+                4,
+                1,
+                0,
+                2
+            ]
+        }
+    ],
+    "footers": [
+        {
+            "name": "Need Optimization",
+            "icon": "error_outline"
+        },
+        {
+            "name": "Expectation fulfilled",
+            "icon": "check_circle_outline"
+        },
+        {
+            "name": "Expectation not fulfilled!",
+            "icon": "highlight_off"
+        }
+    ]
+}
